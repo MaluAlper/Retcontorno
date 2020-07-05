@@ -1,0 +1,11 @@
+C:\Users\Maria Luiza\Desktop\Luiza\retcontorno\retcontorno\obj\Debug\netcoreapp3.1\retcontorno.csprojAssemblyReference.cache
+C:\Users\Maria Luiza\Desktop\Luiza\retcontorno\retcontorno\obj\Debug\netcoreapp3.1\retcontorno.AssemblyInfoInputs.cache
+C:\Users\Maria Luiza\Desktop\Luiza\retcontorno\retcontorno\obj\Debug\netcoreapp3.1\retcontorno.AssemblyInfo.cs
+C:\Users\Maria Luiza\Desktop\Luiza\retcontorno\retcontorno\bin\Debug\netcoreapp3.1\retcontorno.exe
+C:\Users\Maria Luiza\Desktop\Luiza\retcontorno\retcontorno\bin\Debug\netcoreapp3.1\retcontorno.deps.json
+C:\Users\Maria Luiza\Desktop\Luiza\retcontorno\retcontorno\bin\Debug\netcoreapp3.1\retcontorno.runtimeconfig.json
+C:\Users\Maria Luiza\Desktop\Luiza\retcontorno\retcontorno\bin\Debug\netcoreapp3.1\retcontorno.runtimeconfig.dev.json
+C:\Users\Maria Luiza\Desktop\Luiza\retcontorno\retcontorno\bin\Debug\netcoreapp3.1\retcontorno.dll
+C:\Users\Maria Luiza\Desktop\Luiza\retcontorno\retcontorno\bin\Debug\netcoreapp3.1\retcontorno.pdb
+C:\Users\Maria Luiza\Desktop\Luiza\retcontorno\retcontorno\obj\Debug\netcoreapp3.1\retcontorno.dll
+C:\Users\Maria Luiza\Desktop\Luiza\retcontorno\retcontorno\obj\Debug\netcoreapp3.1\retcontorno.pdb
